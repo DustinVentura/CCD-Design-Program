@@ -1,2 +1,1 @@
-# CollabRepositoryTest
-Just a Test
+# Github Repository for Design Forms Vending Machine by CCD
